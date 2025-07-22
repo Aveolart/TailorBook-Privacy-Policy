@@ -62,17 +62,22 @@ These services may collect device or usage information as described in their res
 
 ---
 
-## 6. Children’s Privacy
+## 6. Account Deletion
+If you wish to delete your account and all associated data, please send an email request to **aoladapo200@gmail.com** from your registered email address. We will process your request and permanently delete your account and data from our servers. You will receive a confirmation once the deletion is complete.
+
+---
+
+## 7. Children’s Privacy
 This app is not intended for children under 13. We do not knowingly collect personal information from children.
 
 ---
 
-## 7. Changes to This Policy
+## 8. Changes to This Policy
 We may update this privacy policy from time to time. Changes will be posted in the app or on our website.
 
 ---
 
-## 8. Contact Us
+## 9. Contact Us
 If you have any questions or concerns about this privacy policy or your data, please contact us at:
 
 **Email:** aoladapo200@gmail.com
